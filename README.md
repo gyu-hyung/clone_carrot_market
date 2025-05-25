@@ -1,16 +1,32 @@
-# clone_carrot_market
+# 🥕 clone_carrot_market
 
-A new Flutter project.
+Flutter로 구현한 당근마켓 클론 앱입니다.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠️ 기술 스택
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter**: 3.19 이상  
+- **Dart**: 3.5.2  
+- **IDE**: Android Studio, VS Code 등  
+- **의존성 관리**: pubspec.yaml  
+- **패키지**:  
+  - cupertino_icons
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧪 개발 환경
+
+- Flutter SDK: `>=3.5.2`
+- Dart SDK: `>=3.5.2`
+- Android/iOS/Web 지원 가능 (기본 설정은 Android 기준)
+- 주요 개발 OS: macOS / Windows
+
+---
+
+## 🚀 실행 방법
+
+### 1. 프로젝트 클론
+```bash
+git clone https://github.com/your-username/clone_carrot_market.git
+cd clone_carrot_market
