@@ -1,0 +1,74 @@
+[
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "강아지 호텔링 이웃시터",
+    "location": "남구 백운동",
+    "price": "건당 70,000원",
+    "likes": 5,
+    "comments": 3
+  },
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "아이폰16 블랙 128기가 상태완전좋음",
+    "location": "쌍촌동",
+    "price": "810,000원",
+    "likes": 1,
+    "comments": 0
+  },
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "제이쁨 드메리 트위드자켓 블리스민",
+    "location": "수기동",
+    "price": "68,000원",
+    "likes": 6,
+    "comments": 0
+  },
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "강아지 호텔링 이웃시터",
+    "location": "남구 백운동",
+    "price": "건당 70,000원",
+    "likes": 5,
+    "comments": 3
+  },
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "아이폰16 블랙 128기가 상태완전좋음",
+    "location": "쌍촌동",
+    "price": "810,000원",
+    "likes": 1,
+    "comments": 0
+  },
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "제이쁨 드메리 트위드자켓 블리스민",
+    "location": "수기동",
+    "price": "68,000원",
+    "likes": 6,
+    "comments": 0
+  },
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "강아지 호텔링 이웃시터",
+    "location": "남구 백운동",
+    "price": "건당 70,000원",
+    "likes": 5,
+    "comments": 3
+  },
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "아이폰16 블랙 128기가 상태완전좋음",
+    "location": "쌍촌동",
+    "price": "810,000원",
+    "likes": 1,
+    "comments": 0
+  },
+  {
+    "imageUrl": "https://picsum.photos/80",
+    "title": "제이쁨 드메리 트위드자켓 블리스민",
+    "location": "수기동",
+    "price": "68,000원",
+    "likes": 6,
+    "comments": 0
+  }
+]

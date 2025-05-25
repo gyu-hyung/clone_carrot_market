@@ -1,0 +1,10 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+# VSCode, Android Studio 등
+.idea/
+.vscode/
+# 기타
+*.log
