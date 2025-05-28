@@ -1,7 +1,6 @@
 
 import 'package:clone_carrot_market/pages/splash_wrapper.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 void main() {
   runApp(MaterialApp(
